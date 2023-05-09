@@ -1,0 +1,3 @@
+/Users/jeremytubongbanua/GitHub/learn_cmake/episodes/episode1/build/CMakeFiles/learn_cmake.dir
+/Users/jeremytubongbanua/GitHub/learn_cmake/episodes/episode1/build/CMakeFiles/edit_cache.dir
+/Users/jeremytubongbanua/GitHub/learn_cmake/episodes/episode1/build/CMakeFiles/rebuild_cache.dir
