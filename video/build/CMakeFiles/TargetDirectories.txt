@@ -1,0 +1,4 @@
+/Users/jeremytubongbanua/GitHub/learn_cmake/video/build/CMakeFiles/run.dir
+/Users/jeremytubongbanua/GitHub/learn_cmake/video/build/CMakeFiles/calc.dir
+/Users/jeremytubongbanua/GitHub/learn_cmake/video/build/CMakeFiles/edit_cache.dir
+/Users/jeremytubongbanua/GitHub/learn_cmake/video/build/CMakeFiles/rebuild_cache.dir
